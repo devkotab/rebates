@@ -9,6 +9,11 @@
       "id": 12,
       "name": "Loyalty Credit",
       "balance": 5.50
+    },
+    {
+      "id": 143,
+      "name": "Refund Credit",
+      "balance": 7.50
     }
   ]
 }
