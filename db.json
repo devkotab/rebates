@@ -1,0 +1,14 @@
+{
+  "rebates": [
+    {
+      "id": 11,
+      "name": "Gift Card",
+      "balance": 10
+    },
+    {
+      "id": 12,
+      "name": "Loyalty Credit",
+      "balance": 5.50
+    }
+  ]
+}
